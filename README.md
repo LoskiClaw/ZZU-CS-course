@@ -1,6 +1,5 @@
 # ZZU-CS-course
 ZZU CS course with programming（2019 fall-2023 spring）
-# ZZU CS course with programming
 
 ## 2019-2020 School Year
 
